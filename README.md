@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 20a131a (feature-1 | Adds login page & mediaList page)
 //
 *
 *
 *
 //
+<<<<<<< HEAD
 
 Project Overview :
 The Media Content Management Dashboard is a simplified content management system (CMS) built with React.js and Node.js. It allows users to manage media content (shows, videos, articles, etc.) with basic CRUD functionality—Create, Read, Update, and Delete. 
@@ -60,26 +64,35 @@ Setup Instructions :-
     
 =======
 # Getting Started with Create React App
+=======
+>>>>>>> 20a131a (feature-1 | Adds login page & mediaList page)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Overview
+The Media Content Management Dashboard is a simplified content management system (CMS) built with React.js and Node.js. It allows users to manage media content (shows, videos, articles, etc.) with basic CRUD functionality—Create, Read, Update, and Delete. The dashboard includes features for searching and filtering media content, as well as responsive design for mobile and desktop screens.
 
-## Available Scripts
 
-In the project directory, you can run:
+Features
+- Content Listing Page: View a list of media items with title, description, genre, and status (Published, Draft).
+- Create/Edit Content: Add or edit media content with fields like Title, Description, Genre, Status, and Upload Date.
+- Delete Content: Remove media items from the list.
+- Responsive Design: Optimized for both desktop and mobile screens.
+- Backend: Node.js server using Express for handling API routes and simulating database operations using in-memory data storage.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Technologies Used:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Frontend:
+ - React.js (with Hooks)
+ - HTML5/CSS3
+ - React Router (for navigation)
 
-### `npm test`
+Backend:
+ - Node.js
+ - Express.js (for API routing)
+ - In-memory data storage (simulating a database)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+<<<<<<< HEAD
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -130,3 +143,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 9e18cd9 (Initialize project using Create React App)
+=======
+ 
+>>>>>>> 20a131a (feature-1 | Adds login page & mediaList page)
